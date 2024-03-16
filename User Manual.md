@@ -1,16 +1,16 @@
 # How to withdraw money from an ATM
 ## Introduction:
-An automated teller machine (ATM) is an electronic telecommunication device that enables customers to perform financial transactions, such as cash withdrawals, deposits, fund transfer, balance inquiries, at any time without the need for direct interaction with bank staff.
+An **automated teller machine** (ATM) is an __electronic__ telecommunication device that enables customers to perform financial transactions, such as cash withdrawals, deposits, fund transfer, balance inquiries, at any time without the need for direct interaction with bank staff.
 ### Purpose of the document:
-In this document, a detailed process on how to withdraw money from an ATM is explained.
-Step-by-step procedure on withdrawing money from an ATM:
+In this document, a _detailed process_ on how to withdraw money from an ATM is explained.
+*Step-by-step procedure on withdrawing money from an ATM*:
  
                                  Figure 1: Part Names of the ATM Machine
 
-1.	Insert the customer ATM card with the chip facing upwards into the card reader. 
-2.	Once done, the screen will display with the message Please enter the PIN (Personal Identification Number).
-3.	Enter the PIN manually using the keypad.
-4.	Then, the display screen will be shown with the following options, such as Balance Inquiry, PIN change, Utility Bill Payment, Other Services, Fast Cash, Cash Withdrawal, Fund Transfer, and Mini Statement.
+1. Insert the customer ATM card with the chip facing upwards into the card reader.
+2. Once done, the screen will display with the message Please enter the ***PIN (Personal Identification Number)***.
+3. Enter the ___PIN___ manually using the **_keypad_**.
+4. Then, the __*display*__ screen will be shown with the following options, such as Balance Inquiry, PIN change, Utility Bill Payment, Other Services, Fast Cash, Cash Withdrawal, Fund Transfer, and Mini Statement.
 	 	
 Figure 2: Menu 
 
