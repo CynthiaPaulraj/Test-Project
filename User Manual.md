@@ -2,8 +2,8 @@
 ## Introduction:
 An **automated teller machine** (ATM) is an __electronic__ telecommunication device that enables customers to perform financial transactions, such as cash withdrawals, deposits, fund transfer, balance inquiries, at any time without the need for direct interaction with bank staff.
 ### Purpose of the document:
-In this document, a _detailed process_ on how to withdraw money from an ATM is explained.[^]
-[^]:This is the the code
+In this document, a _detailed process_ on how to withdraw money from an ATM is explained.[^1]
+[^1]:This is the the code
 *Step-by-step procedure on withdrawing money from an ATM*:
  
                                  Figure 1: Part Names of the ATM Machine
