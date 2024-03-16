@@ -50,6 +50,7 @@ The document has explained in detail about the withdrawal of money from the ATM 
 
 `curl --location --request POST 'https://rest.iad-01.braze.com/sms/invalid_phone_numbers/remove' \ `
 
+```
 --header 'Content-Type: application/json' \
 
 --header 'Authorization: Bearer YOUR-REST-API-KEY' \
@@ -58,4 +59,5 @@ The document has explained in detail about the withdrawal of money from the ATM 
 
   "phone_numbers" : ["12183095514","14255551212"]
 
-}'`
+}'
+```
