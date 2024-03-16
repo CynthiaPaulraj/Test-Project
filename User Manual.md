@@ -6,7 +6,9 @@ In this document, a _detailed process_ on how to withdraw money from an ATM is e
 [^1]:This is the the code
 
 *Step-by-step procedure on withdrawing money from an ATM*:
- 
+
+ ![Picture1](https://github.com/CynthiaPaulraj/Test-Project/assets/106270841/044607c6-d6dc-401e-96dd-7713d4747138)
+
                                  Figure 1: Part Names of the ATM Machine
 
 1. Insert the customer ATM card with the chip facing upwards into the card reader.
