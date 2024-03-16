@@ -43,5 +43,5 @@ The document has explained in detail about the withdrawal of money from the ATM 
 - type2
 * type3
 + type4
-      - type5
-      - type6
+   - type5
+   - type6
