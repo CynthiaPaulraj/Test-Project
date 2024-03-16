@@ -37,3 +37,11 @@ The document has explained in detail about the withdrawal of money from the ATM 
      1. type2
      2. remove2
 1. type3
+
+--------------------------------------------------------------------------------------------
+- type1
+- type2
+* type3
++ type4
+      - type5
+      - type6
