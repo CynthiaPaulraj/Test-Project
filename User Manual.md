@@ -29,4 +29,11 @@ Figure 3: Amount entry screen
 The document has explained in detail about the withdrawal of money from the ATM machine.
 ##### References:
 ###### More Information:
+1. type1
+1. type2
+1. type3
 
+1. type1
+     1. type2
+     2. remove2
+1. type3
