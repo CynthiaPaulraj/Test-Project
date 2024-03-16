@@ -15,7 +15,9 @@ In this document, a _detailed process_ on how to withdraw money from an ATM is e
 2. Once done, the screen will display with the message Please enter the ***PIN (Personal Identification Number)***.
 3. Enter the ___PIN___ manually using the **_keypad_**.
 4. Then, the __*display*__ screen will be shown with the following options, such as Balance Inquiry, PIN change, Utility Bill Payment, Other Services, Fast Cash, Cash Withdrawal, Fund Transfer, and Mini Statement.
-For more information, [click here](https://api.slack.com/apis/connections/events-api)	 	
+
+For more information, [click here](https://api.slack.com/apis/connections/events-api)	 
+
 Figure 2: Menu 
 
 ~~Select the option Cash Withdrawal using the screen button located on the right side of the display screen.~~
