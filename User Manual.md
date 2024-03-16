@@ -16,8 +16,8 @@ In this document, a _detailed process_ on how to withdraw money from an ATM is e
 	 	
 Figure 2: Menu 
 
-5.	Select the option Cash Withdrawal using the screen button located on the right side of the display screen.
-6.	The amount entry screen will be shown on the display screen. Enter the amount using the keypad and press Yes button on the display screen.
+~~Select the option Cash Withdrawal using the screen button located on the right side of the display screen.~~
+The amount entry screen will be shown on the display screen. Enter the amount using the keypad and press Yes button on the display screen.
 
  
 Figure 3: Amount entry screen
@@ -68,3 +68,7 @@ The document has explained in detail about the withdrawal of money from the ATM 
 | ------ | ------| ------------- |
 | heading1 | syntax1 | description1 |
 | heading2 | syntax2 | description2 |
+
+- [x] Task 1
+- [x] Task 1
+- [ ] Task 1
