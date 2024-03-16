@@ -48,7 +48,7 @@ The document has explained in detail about the withdrawal of money from the ATM 
    - type5
    - type6
 
-`curl --location --request POST 'https://rest.iad-01.braze.com/sms/invalid_phone_numbers/remove' \
+`curl --location --request POST 'https://rest.iad-01.braze.com/sms/invalid_phone_numbers/remove' \ `
 
 --header 'Content-Type: application/json' \
 
