@@ -23,7 +23,7 @@ Figure 3: Amount entry screen
 8.	Then, select the account type -> Current / Savings.
 9.	Please wait till the processing takes place.
 10.	Please collect the cash from the cash dispenser.
-11.	Please collect the Receipt in the Receipt Printer if clicked Yes for the Print receipt.
+11.	Please collect the `Receipt` in the Receipt Printer if clicked Yes for the Print receipt.
 12.	Select the button Close in the keypad if the transaction is completed and collect the card from the card reader.
 #### Conclusion:
 The document has explained in detail about the withdrawal of money from the ATM machine.
