@@ -61,3 +61,8 @@ The document has explained in detail about the withdrawal of money from the ATM 
 
 }'
 ```
+
+| heading | syntax | description |
+| ------ | ------| ------------- |
+| heading1 | syntax1 | description1 |
+| heading2 | syntax2 | description2 |
