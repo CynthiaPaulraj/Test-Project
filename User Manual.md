@@ -18,7 +18,7 @@ In this document, a _detailed process_ on how to withdraw money from an ATM is e
 
 For more information, [click here](https://api.slack.com/apis/connections/events-api)	 
 
-Figure 2: Menu 
+Figure 2: Menu 😂
 
 ~~Select the option Cash Withdrawal using the screen button located on the right side of the display screen.~~
 The amount entry screen will be shown on the display screen. Enter the amount using the keypad and press Yes button on the display screen.
